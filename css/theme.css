@@ -1,0 +1,45 @@
+
+
+
+@media screen and (min-width:768px) {
+    
+    div {
+        background-color: rgb(134, 143, 153);
+    }
+    .a {
+        background-color: gold;
+       
+    }
+    .b {
+        background-color: fuchsia;
+        float: left;
+    }
+    .c {
+        background-color: green;
+    }
+    .d {
+        background-color: rgb(128, 0, 70);
+    }
+    .e {
+
+        background-color: indianred;
+    }
+    .f {
+        background-color: lightgreen;
+    }
+    .g {
+        background-color: lime;
+    }
+    .h {
+        background-color: rgb(211, 123, 233);
+    }
+    .i {
+        background-color: olive;
+    }
+} 
+@media(min-width: 960px) {
+    div {
+        background-color: rgb(234, 236, 87);
+    }
+}
+
