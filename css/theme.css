@@ -3,8 +3,11 @@
 
 @media screen and (min-width:768px) {
     
-    div {
+    /* div {
         background-color: rgb(134, 143, 153);
+    } */
+    .a ,.b,.c,.d,.e,.f,.g,.h,.i{
+        border: 1px #979797 solid;
     }
     .a {
         background-color: gold;
@@ -37,9 +40,6 @@
         background-color: olive;
     }
 } 
-@media(min-width: 960px) {
-    div {
-        background-color: rgb(234, 236, 87);
-    }
-}
+  
+
 
