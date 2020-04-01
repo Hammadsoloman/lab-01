@@ -1,28 +1,13 @@
 
-
 * {
     box-sizing: border-box;
   }
 
 
- body {
-    width: 480px;
-    margin: auto;
-    background-color:#D8D8D8 ;
-
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    width:480px ;
 }
 
-
-@media(min-width: 768px) {
-    body {
-        width: 960px;
-   
-    }
-}
-
-@media(min-width:960px) {
-    body {
-        width: 960px;
-        margin: auto;
-    }
-}
